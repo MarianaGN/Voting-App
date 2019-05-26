@@ -1,0 +1,15 @@
+.main-view{  
+    min-height: 100vh;      
+}
+
+.navbar-brand{  
+    cursor: pointer;  
+    outline:none;  
+    font-weight:400;  
+    font-style:italic;  
+    background-color:#2b2f35;
+} 
+
+nav.navbar.navbar-light{
+    margin: 0px;
+}

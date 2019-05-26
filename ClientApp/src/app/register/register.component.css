@@ -1,0 +1,11 @@
+form{
+    font-style:italic;  
+}
+
+div.form-group label{
+    color: #5bc0de
+}
+
+a.btn.btn-link{
+    color: #080708;
+}

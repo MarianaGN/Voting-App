@@ -1,0 +1,15 @@
+
+div.main{
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+    background-image: url(./_images/test6.jpg);
+    
+}
+
+div.container {
+    min-height: 600px;
+    padding-top: 0px;
+    flex: 1 1 auto;
+    margin-bottom: 10px;
+}
